@@ -175,5 +175,4 @@ cython_debug/
 
 # Ignore data files
 *.csv.zip
-*.csv
 *.parquet
